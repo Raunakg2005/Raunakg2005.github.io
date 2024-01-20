@@ -1,0 +1,32 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/51/d8/37/51d8374126446d495348b6032202126f.jpg");
+  background-size: 100% 100%;
+  color: white;
+  font-family: cursive;
+  text-align: center;
+}
+
+header {
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+h1, h2 {
+  color: white;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+p {
+  line-height: 1.5;
+}
